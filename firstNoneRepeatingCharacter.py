@@ -1,4 +1,4 @@
-#First Non-Repeating Character
+#First Non-Repeating Character By Mirage
 #Brute Force Method -> Looks at every character
 #O(n^2) time | O(1) space
 def firstNonRepeatingCharacter(string):
