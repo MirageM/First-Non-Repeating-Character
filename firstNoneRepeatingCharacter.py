@@ -10,13 +10,4 @@ def firstNonRepeatingCharacter(string):
         if not foundDuplicate:
             return i
     return -1
-
-    def firstNonRepeatingCharacter(string):
-    characterFrequencies = {}
-    for character in string:
-        if characterFrequencies[character] = characterFrequencies.get(character, 0) + 1
-    for idx in range(len(string)):
-        character = string[idx]
-        if characterFrequencies[character] == 1:
-            return idx
-    return -1
+    
